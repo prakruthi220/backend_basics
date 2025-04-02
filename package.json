@@ -4,6 +4,7 @@
 	"description": "i dont think i'll complete this course",
 	"keywords": ["freecodecamp", "nothing"],
 	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
